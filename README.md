@@ -16,5 +16,5 @@ interface Client
 
     void databaseTransaction();
 
-    void online Security();
+    void onlineSecurity();
 }
